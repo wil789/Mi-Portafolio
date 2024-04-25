@@ -17,6 +17,7 @@
 
 /*Tablet*/
 @media screen and (max-width: 768px) {
+ 
   /*Footer*/
   .footer__rodape {
     font-size: 1.2rem;
